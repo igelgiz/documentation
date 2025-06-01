@@ -21,8 +21,6 @@ Installation Steps
        :alt: Add New Plugin
        :width: 400px
        :align: center
-       
-    *(You would add an image like `rtd-docs/img/add_new_plugin.png` here)*
 
 3.  **Upload the Plugin.**
     At the top of the "Add Plugins" page, click the "Upload Plugin" button.
@@ -32,8 +30,6 @@ Installation Steps
        :width: 400px
        :align: center
 
-    *(You would add an image like `rtd-docs/img/upload_plugin_button.png` here)*
-
 4.  **Choose the Plugin File.**
     Click the "Choose File" button and select the `igelgiz.zip` file you downloaded. Then, click "Install Now."
 
@@ -42,8 +38,6 @@ Installation Steps
        :width: 400px
        :align: center
 
-    *(You would add an image like `rtd-docs/img/install_now_plugin.png` here)*
-
 5.  **Activate the Plugin.**
     Once the plugin is installed, WordPress will show a success message. Click the "Activate Plugin" button.
 
@@ -51,8 +45,6 @@ Installation Steps
        :alt: Activate Plugin
        :width: 400px
        :align: center
-
-    *(You would add an image like `rtd-docs/img/activate_plugin.png` here)*
 
 Post-Activation
 ---------------

@@ -22,8 +22,6 @@ How to Activate Your License
        :width: 600px
        :align: center
 
-    *(You would add an image like `rtd-docs/img/license_form.png` here)*
-
 3.  **Enter Your License Key.**
     Copy the license key you received upon purchasing iGelGiz and paste it into the designated "License Key" field.
 
@@ -38,8 +36,6 @@ Once the license is successfully activated, the page will update to show your li
    :alt: License Active Status
    :width: 600px
    :align: center
-
-*(You would add an image like `rtd-docs/img/license_active.png` here)*
 
 Troubleshooting License Activation
 ----------------------------------
