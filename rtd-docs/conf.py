@@ -11,7 +11,7 @@ sys.path.insert(0, os.path.abspath('.'))
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'iGelGiz Plugin'
-copyright = '2023, iGelGiz Team' # Update year if necessary
+copyright = '2025, iGelGiz Team' # Update year if necessary
 author = 'iGelGiz Team'
 release = '1.0.0' # Same as your plugin version
 
