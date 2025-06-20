@@ -48,8 +48,4 @@ Installation Steps
 
 Post-Activation
 ---------------
-After successful activation, you will find a new "iGelGiz" menu item in your WordPress admin sidebar. This is where you will configure all the plugin settings and manage your license.
-
-Next Steps
-----------
-The first thing you should do after activation is to :doc:`activate your license <license>` to unlock all features and ensure you receive plugin updates.
+After successful activation, you will find a new "iGelGiz" menu item in your WordPress admin sidebar. This is where you will configure all the plugin settings.

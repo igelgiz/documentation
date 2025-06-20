@@ -16,7 +16,6 @@ This documentation provides a comprehensive guide to installing, configuring, an
 
    introduction
    installation
-   license
    features
    troubleshooting
    faq

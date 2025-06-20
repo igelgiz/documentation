@@ -40,14 +40,3 @@ Q: How accurate is Geoblocking?
 
 Q: Will "Disable RSS Feeds" affect my email newsletter if it uses RSS?
    A: Yes, if your email newsletter service pulls content directly from your site's RSS feeds, disabling them will break that functionality. Consider if you have any services relying on your RSS feeds before enabling this option.
-
-License & Updates
------------------
-Q: How do I update the iGelGiz plugin?
-   A: If you have an active license, iGelGiz should support automatic updates through the WordPress dashboard. You'll see a notification under **Dashboard > Updates** or on the **Plugins** page when a new version is available.
-
-Q: What happens if my license expires (for non-lifetime licenses)?
-   A: Typically, if a term-based license expires, the plugin might continue to work with the last set of features available at the time of expiry, but you will no longer receive plugin updates (including new features, security patches, and updated bot lists) or be eligible for support. It's highly recommended to keep your license active.
-
-Q: Where can I get support if I have more questions?
-   A: Please refer to the support channels provided at the place of purchase or on the official iGelGiz plugin website/documentation. See the :doc:`support` page for more information.
